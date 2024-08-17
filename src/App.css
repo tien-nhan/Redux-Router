@@ -1,0 +1,4 @@
+.tooltip-group:hover .tooltip-label {
+    visibility: visible;
+    opacity: 1;
+  }
